@@ -1,0 +1,16 @@
+html,
+body {
+  margin: 0;
+}
+
+div#leftSideBar {
+  position: absolute;
+  left: 0.8%;
+
+  border-color: black;
+  border-width: 2px;
+  border-style: groove;
+
+  width: 10vw;
+  height: 100vh;
+}
